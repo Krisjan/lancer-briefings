@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Maestro",
           "alias": "Drogo",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-Stage-Left//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Strings"
@@ -111,26 +111,26 @@ export default {
         {
           "callsign": "Howitzer",
           "alias": "Matej Zizka",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-Paradigm//a98c3e28-ad4a-4f89-bcd9-501464e960da",
           "corpro": "GMS",
-          "frame": "Moksha",
-          "mech": "Chomolungma"
+          "frame": "Chomolungma",
+          "mech": "Moksha"
         },
         {
           "callsign": "Gallant",
-          "alias": "Ser Gilbert",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "alias": "Ser Gilbert DuBois de Fouguex dit le Parravon Rallart XXVII",
+          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-Breton//056940c6-8d55-4190-8e85-57caa043cb1a",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "The Reluctant Heir"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Saint",
+          "alias": "Rosalinde Boscho",
+          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-Burgundy//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "frame": "Sagarmatha",
+          "mech": "The Bonds Which Bind"
         },
         {
           "callsign": "Compadre",
