@@ -89,13 +89,13 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
-      "events": "001",
+      "events": "",
       "missions": [
         {
-          "slug": "002",
-          "name": "Splashdown in Kirmani Plaza",
+          "slug": "001",
+          "name": "Defending Freedom",
           "status": "start"
         },
       ],
