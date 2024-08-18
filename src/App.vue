@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Maestro",
           "alias": "Drogo",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-Stage-Left//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "462370be-bd0f-41c2-b667///NDL-C-DEEP-Center-Stage//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Strings"
@@ -133,12 +133,12 @@ export default {
           "mech": "The Bonds Which Bind"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "Wyvern",
+          "alias": 'Milo',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-Lost_Boy//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "frame": "Sagarmatha",
+          "mech": "Diplomat"
         },
       ],
       "header": {
