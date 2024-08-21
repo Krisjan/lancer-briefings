@@ -1,0 +1,9 @@
+Milo Pritchet, a.k.a. "Wyvern"
+
+Spent the majority of his early life aboard a space station orbiting a remote moon, often a refueling/maintenance stop for all manner of ships and companies. Due to not having a company affiliation, preferring an open-borders approach to travelers, it never really saw much prosperity, but it made enough to get resources delivered. It was steadily in decline, however, leading Milo to eventually join those making their exit from the station, doing so by joining up with a mercenary company and becoming a soldier at just 19. His eyes were set on the chassis of a Lancer, but for now, he'd work his way up from boots on the ground.
+
+Much to his fears, however, the company he worked under was less like the legendary Albatross and more like space privateers for the highest bidders. While life in a station with a faulty gravity system did lend him an edge for the chaos of shipbound combat, it wasn't the combat conditions he was worried about. He distinctly knew what they were doing served nothing but companies who didn't give a damn about anyone doing their dirty work. But they were his ticket out of there, he didn't have much of a choice.
+
+He'd be stuck with them for 6 years, the length of a standard contract, earning plenty of scars and even losing a leg in the fighting. The second he was good enough to hobble out of bed, he was dropped, left on whatever colony they'd just been contracted to. He'd take a year or two to lie low there, recovering and getting his head back on straight. He'd go back to his dream of being a Lancer, part of a mechanized force that hopefully did some good rather than just helped turn a profit.
+
+Still pretty new to Lancer's universe and wanted to give a more detailed shot at some backstory, let me know if this works or if you've got any suggestions or anything!
